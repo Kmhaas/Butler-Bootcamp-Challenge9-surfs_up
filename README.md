@@ -10,7 +10,14 @@
 * The maximum temperature for the month of June is 85 degrees compared to December 83 degrees. Both tempertaures are beneficial for business.
 
 
+
+
+
+
 June Summary Statistics
+
+
+
 ![June Stats](https://user-images.githubusercontent.com/93004710/155856289-d2b461d3-76f0-49b7-a564-70849ed6e76d.png)
 
 
@@ -23,7 +30,13 @@ June Summary Statistics
 
 
 December Summary Statistics
+
+
+
 ![December Stats](https://user-images.githubusercontent.com/93004710/155856319-d5256c7f-1838-46b1-bdb9-362ae4edd5a6.png)
+
+
+
 
 
 
